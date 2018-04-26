@@ -26,8 +26,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/foxvac/foxmap.git
-cd foxmap/
+git clone https://github.com/1321312312/KFC2018.git
+cd KFC2018/
 npm i
 npm i -g pino
 npm install -g forever
