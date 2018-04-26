@@ -3,7 +3,7 @@ echo "欢迎使用网页雷达一键脚本"
 echo "即将搭建FOX4.25版本"
 echo "请输入你的内网ip" 
 read -p "内网ip： " ip
-cp /root/foxmap/restart.sh /root/restart.sh
+cp /root/KFC2018/restart.sh /root/restart.sh
 chmod +x restart.sh
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
