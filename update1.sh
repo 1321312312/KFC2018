@@ -5,7 +5,6 @@ echo "请输入你的内网ip"
 read -p "内网ip： " ip
 cd libpcap-1.8.1
 rm -rf lKFC2018/
-cp /root/KFC2018/restart.sh /root/restart.sh
 chmod +x restart.sh
 git clone https://github.com/1321312312/KFC2018.git
 cd KFC2018/
