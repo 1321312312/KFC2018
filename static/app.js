@@ -69,7 +69,7 @@ vapp = new Vue({
     showSCAR: true,
     showAK47: true,
     showHK416: true,
-    showPan: false,
+    showPan: true,
     showMini14: true,
     showSKS: true,
     showKar98k: true,
