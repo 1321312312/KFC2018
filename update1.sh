@@ -4,7 +4,7 @@ echo "即将搭建4.27版本"
 echo "请输入你的内网ip" 
 read -p "内网ip： " ip
 cd libpcap-1.8.1
-rm -rf lKFC2018/
+rm -rf KFC2018/
 cd 
 cd
 rm -rf KFC2018/
