@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "欢迎使用网页雷达一键脚本"
-echo "即将搭建FOX4.25版本"
+echo "即将搭建4.27版本"
 echo "请输入你的内网ip" 
 read -p "内网ip： " ip
 cp /root/KFC2018/restart.sh /root/restart.sh
