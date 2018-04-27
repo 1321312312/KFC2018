@@ -7,7 +7,7 @@ cd libpcap-1.8.1
 rm -rf lKFC2018/
 cd 
 cd
-rm -rf lKFC2018/
+rm -rf KFC2018/
 chmod +x restart.sh
 git clone https://github.com/1321312312/KFC2018.git
 cd KFC2018/
