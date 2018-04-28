@@ -43,13 +43,13 @@ vapp = new Vue({
     // --------------------------------------------------------------------------
 
     showBack: false,
-    showArmor2: true,
-    showHead2: true,
+    showArmor2: false,
+    showHead2: false,
     showArmor3: true,
     showHead3: true,
     showFirstAid: true,
-    showMedKit: true,
-    showDrink: true,
+    showMedKit: false,
+    showDrink: false,
     showGrenade: false,
     showSmokeBomb: false,
     showAmmo556: false,
@@ -65,14 +65,14 @@ vapp = new Vue({
     showSRSuppressor: true,
     showSRExtended: true,
     showSRStock: false,
-    showM16A4: true,
-    showSCAR: true,
-    showAK47: true,
+    showM16A4: false,
+    showSCAR: false,
+    showAK47: false,
     showHK416: true,
     showPan: false,
-    showMini14: true,
+    showMini14: false,
     showSKS: true,
-    showKar98k: true,
+    showKar98k: false,
 
     // --------------------------------------------------------------------------
 
